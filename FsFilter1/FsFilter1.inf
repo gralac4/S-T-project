@@ -10,7 +10,7 @@ Signature   = "$Windows NT$"
 Class = "Encryption"
 ClassGuid = {a0a701c0-a511-42ff-aa6c-06dc0395576f}
 Provider    = %ManufacturerName%
-DriverVer   = 
+DriverVer   = 07/01/2017,0.0.0.1
 CatalogFile = FsFilter1.cat
 
 [DestinationDirs]
