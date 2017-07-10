@@ -7,8 +7,8 @@ Signature   = "$Windows NT$"
 ; TODO - Change the Class and ClassGuid to match the Load Order Group value, see https://msdn.microsoft.com/en-us/windows/hardware/gg462963
 ; Class       = "ActivityMonitor"                         ;This is determined by the work this filter driver does
 ; ClassGuid   = {b86dff51-a31e-4bac-b3cf-e8cfe75c9fc2}    ;This value is determined by the Load Order Group value
-Class = "_TODO_Change_Class_appropriately_"
-ClassGuid = {_TODO_Change_ClassGuid_appropriately_}
+Class = "Encryption"
+ClassGuid = {a0a701c0-a511-42ff-aa6c-06dc0395576f}
 Provider    = %ManufacturerName%
 DriverVer   = 
 CatalogFile = FsFilter1.cat
